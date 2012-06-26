@@ -4,6 +4,14 @@ import FizzBuzz
 """
 Q3. What will be printed when we execute 'python FizzBuzzStubbed.py' ? [3 pts]
 
+Ans:- setUpClass FizzBuzzStubbed
+      setup
+      test_report
+      teardown
+      .setup
+      test_report 
+      teardown
+      .tearDownClass
 
 
 
